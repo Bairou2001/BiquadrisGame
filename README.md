@@ -1,2 +1,2 @@
 # BiquadrisGame
-Command line application with graphical display for a 2-player game that is a derivative of Tetris.
+Command line application written in C++ with graphical display for a 2-player game that is a derivative of Tetris. This project was completed as a final project for a CS course (CS246) at the University of Waterloo in a team of three students. Due to University policies, the source code is not available on a public repository, but is available upon request for employment purposes. Please contact me if you are an employer and need to review the source code.
